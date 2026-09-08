@@ -36,7 +36,7 @@ Here is our roadmap to transform FurtherHub into a comprehensive educational pla
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/sarahalnobi53-del/furtherhub.git
+    git clone https://github.com/SarahAlnobiDev/furtherhub
 
 2. Install dependencies:
    ```
